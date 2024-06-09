@@ -1,1 +1,62 @@
-software engineering is
+software engineering is the application of engineering principles to design, test, develop, deploy and maintain software systems. it differs from traditional programming in that it has a broader scope as 
+
+SDLC
+Requrements: gathering and documentind user and system requrements
+design: create high level and detailed software architecture and user interface
+implementation: write code according to design specifications
+testing: conduct various test to ensure the software meets quality and functonal requirements
+deployment: release to users or customers
+maintenance: provide ongoing support and enhancements to the deployment
+
+agile vs waterfall
+agile: iterative and incremental approach focused on flexibility collaboration and respond to changes.  good for long term projects
+waterfall: sequential approach with distinct phases. good for short term projects
+
+requrements engineering:
+definition: process of defining, documenting, and maintaining the requirements in the engineering design process
+process:
+Elicitation: Gathering requirements from stakeholders.
+Analysis: Analyzing requirements for consistency, completeness, and feasibility.
+Specification: Documenting the requirements in a detailed, clear, and concise manner.
+Validation: Ensuring the requirements accurately reflect the needs and constraints of stakeholders.
+importance:Foundation for Design and Development
+
+software design principles
+modularity:Modularity is a design principle that divides a software system into distinct, independent modules, each responsible for a specific aspect of the system’s functionality.
+Maintainability: Easier to understand, fix, and update individual modules without affecting the entire system.
+Scalability: New features and functionalities can be added by incorporating new modules.
+
+testing
+unit testing: testing individual components or modules in a system
+integration testing:  testing interactions between different components
+system testing: testing entire software system
+acceptance testing: testing the software system against user requirements to ensure it meets user needs
+testing is crucial because it helps to identify and fix defects early in the development process
+
+version control systems
+definition:software tools which track code changes and coordinate work among team  members
+examples: git, subversion
+
+software project management
+software manager: oversee planning, execution and delivery of software projects
+challenges: technical debt, changing requirements, tight deadlines
+
+software maintenance
+definition:provide ongoing support and enhancements to the deployment
+types:
+Corrective: Fixing defects found after release.
+Adaptive: Modifying software to work in new or changed environments.
+Perfective: Enhancing software to improve performance or maintainability.
+Preventive: Making changes to prevent future issues
+maintenance:
+
+ethical considerations
+examples:
+Privacy: Ensuring user data is protected and used responsibly.
+Security: Developing secure systems to protect against breaches.
+Intellectual Property: Respecting copyrights and avoiding plagiarism.
+Honesty: Providing accurate information and avoiding deceptive practices.
+ethical adherance:
+Adherence to Codes of Conduct: Following professional ethical guidelines (e.g., ACM Code of Ethics).
+Transparency: Being clear about data usage and system limitations.
+Continuous Learning: Staying informed about ethical standards and best practices.
